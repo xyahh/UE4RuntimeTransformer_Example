@@ -3,7 +3,6 @@
 #Ignore these so that we have a pure Blueprint Example project
 Plugins/*
 Source/*
-*.uproject
 
 # Compiled Object files
 *.slo
@@ -72,3 +71,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Binaries
