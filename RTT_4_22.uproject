@@ -2,12 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.22",
 	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "RTT_4_22",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	]
+	"Description": ""
 }
