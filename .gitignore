@@ -1,5 +1,9 @@
 .vs/
 
+#Ignore these so that we have a pure Blueprint Example project
+Plugins/*
+Source/*
+
 # Compiled Object files
 *.slo
 *.lo
