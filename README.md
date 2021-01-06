@@ -4,3 +4,7 @@ Before opening the project for the first time, make sure that the Runtime Transf
 
 Link to the Plugin
 https://github.com/xyahh/UE4RuntimeTransformer
+
+Branches:
+The master branch handles the latest updated version of the plugin (Currently for Unreal 4.26)
+Other branches are there to go back to previous versions
