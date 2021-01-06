@@ -2,12 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.26",
 	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "RTTransformerExample",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	]
+	"Description": ""
 }
