@@ -6,5 +6,5 @@ Link to the Plugin
 https://github.com/xyahh/UE4RuntimeTransformer
 
 Branches:
-The master branch handles the latest updated version of the plugin (Currently for Unreal 4.26)
+The master branch handles the latest updated version of the plugin (Currently for Unreal 4.27)
 Other branches are there to go back to previous versions
